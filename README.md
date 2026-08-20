@@ -34,8 +34,9 @@ End-To-End Adaptive Quantitative Trading System combining GRU (Gated-Recurrent-U
 1. **Data Fetching:** Gross historical data of the list of assets obtained via Yahoo Finance fetched in a Pandas DataFrame and converted in a SQLite3 Database (.db).
 2. **SQL Modelling:** SQL query execution to calculate technical indicators on 10 and 20 day windows (Logarithmic Returns, Moving Averages, Volatility, Average True Range, Relative Strength Index and Average Directional Index) and exchange rate conversion.
 3. **Model Training:**  GRU-based neural network model trained to analyze portfolio historical data and take a financial position with adaptive leverage according to the volatility of the asset, boosting returns and reducing risk.
-4. **Data Analytics:** Power BI analytics dashboard to demonstrate the financial backtesting results, including metrics such as directional accuracy, net returns and performance spread. Provides investing advice according to the current tendency and equity curve of each asset, with interactive filter menus by asset, asset class and sector.
 
 ```bash
    python 03_Neural_Network_Pipeline/trading_system_neural_network_pipeline.py
  ```
+
+4. **Data Analytics:** Power BI analytics dashboard to demonstrate the financial backtesting results, including metrics such as directional accuracy, net returns and performance spread. Provides investing advice according to the current tendency and equity curve of each asset, with interactive filter menus by asset, asset class and sector.
