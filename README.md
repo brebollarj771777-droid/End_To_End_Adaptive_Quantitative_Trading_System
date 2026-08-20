@@ -3,7 +3,7 @@ End-To-End Adaptive Quantitative Trading System combining GRU (Gated-Recurrent-U
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard/Dashboard_Preview.png)
+![Dashboard Preview](04_Power_BI_Dashboard/Dashboard_Preview.png)
 
 ## Key Components
 
