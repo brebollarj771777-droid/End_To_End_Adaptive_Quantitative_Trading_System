@@ -33,4 +33,5 @@ End-To-End Adaptive Quantitative Trading System combining GRU (Gated-Recurrent-U
 
 1. **Data Fetching:** Gross historical data of the list of assets obtained via Yahoo Finance fetched in a Pandas DataFrame and converted in a SQLite3 Database (.db).
 2. **SQL Modelling:** SQL query execution to calculate technical indicators on 10 and 20 day windows (Logarithmic Returns, Moving Averages, Volatility, Average True Range, Relative Strength Index and Average Directional Index) and exchange rate conversion.
-3. **Model Training:**
+3. **Model Training:**  ```bash
+   python notebooks_scripts/trading_system_neural_network.py
