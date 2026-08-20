@@ -5,6 +5,8 @@ End-To-End Adaptive Quantitative Trading System combining GRU (Gated-Recurrent-U
 
 ![Dashboard Preview](04_Power_BI_Dashboard/Dashboard_Preview.png)
 
+![Dashboard_Demo_Video](04_Power_BI_Dashboard/demo_preview.mp4)
+
 ## Key Components
 
 - **Adaptive Deep-Learning (Python):** GRU Neural Network Model that dynamically toggles between 10 and 20 day windows according to the volatility regime (Average True Range) of the asset.
