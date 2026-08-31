@@ -1,6 +1,6 @@
 """
 Trading System Data Fetching Module
-Extracts historical market data for portfolio assets and saves it to a SQLite.
+Extracts historical market data for portfolio assets and saves it to a SQLite database.
 """
 
 # Third Party Library Imports
