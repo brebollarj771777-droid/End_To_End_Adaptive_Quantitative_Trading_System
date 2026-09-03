@@ -40,3 +40,7 @@ End-To-End Adaptive Quantitative Trading System combining GRU (Gated-Recurrent-U
  ```
 
 4. **Data Analytics:** Power BI analytics dashboard to demonstrate the financial backtesting results, including metrics such as directional accuracy, net returns and performance spread. Provides investing advice according to the current tendency and equity curve of each asset, with interactive filter menus by asset, asset class and sector.
+
+## Demo Video
+
+![Demo Video](main/Trading_System.mp4)
