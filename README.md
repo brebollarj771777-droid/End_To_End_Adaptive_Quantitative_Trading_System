@@ -43,4 +43,4 @@ End-To-End Adaptive Quantitative Trading System combining GRU (Gated-Recurrent-U
 
 ## Demo Video
 
-![Demo Video](main/Trading_System.mp4)
+[![Demo Video](main/Trading_System.mp4)](https://github.com/user-attachments/assets/eb8bc8ee-f144-4807-a4ee-34424be45d6d)
